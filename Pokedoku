@@ -1,0 +1,5 @@
+import random
+#-----------------------
+options = ["Mega","Gmax","Mythic / Legendary","Kanto","Fairy", "Normal","Fire","Grass","Water","Electric","Ice","Rock","Ground","Dark","Pyschic","Poision","Flying","Steel","Dragon",  "Bug"]
+#-----------------------------
+print("Find Something Which Is:\n")
